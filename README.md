@@ -6,3 +6,7 @@ Features:
 - Commands
 - Slash Commands
 - Tasks
+
+Future:
+- Add example sub commands
+- Add support for sub/sub commands
