@@ -10,3 +10,5 @@ Features:
 Future:
 - Add example sub commands
 - Add support for sub/sub commands
+- Implement JSDoc to all functions
+- Use cron job for tasks rather than setInterval
