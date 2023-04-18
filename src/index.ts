@@ -25,7 +25,7 @@ import "./utils/prototypes";
 config();
 
 interface Constructor<T> {
-  new (): T;
+  new(): T;
 }
 
 export default class App {
